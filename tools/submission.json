@@ -1,0 +1,32 @@
+{
+  "dataset": "cv2026_train50_test20_v3",
+  "evaluator": "rgb768_psnr_ssim11_lpipsalex_cpu_v1",
+  "width": 768,
+  "height": 432,
+  "train_count": 50,
+  "test_count": 20,
+  "test_names": [
+    "000001.png",
+    "000002.png",
+    "000003.png",
+    "000004.png",
+    "000005.png",
+    "000006.png",
+    "000007.png",
+    "000008.png",
+    "000009.png",
+    "000010.png",
+    "000011.png",
+    "000012.png",
+    "000013.png",
+    "000014.png",
+    "000015.png",
+    "000016.png",
+    "000017.png",
+    "000018.png",
+    "000019.png",
+    "000020.png"
+  ],
+  "ssh_host": "cv2026",
+  "leaderboard_url": "http://10.76.5.255:8080/"
+}
